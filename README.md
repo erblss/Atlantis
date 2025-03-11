@@ -40,7 +40,7 @@ Durante la primera semana realizamos el personaje principal, en este caso el pá
 
 [enter image description here]
 
-La segunda semana continuamos organizando un poco el Readme para poder continuar desarrollando el proceso del juego de forma más adecuada; mientras continuamos con el desarrollo de 
+La segunda semana continuamos organizando un poco el Readme para poder continuar desarrollando el proceso del juego de forma más adecuada; mientras continuamos con el desarrollo de la gravedad del pájaro y con el movimiento de las tuberias y ponemos el fondo de has perdido, que sucederá si tocas uno de los obstáculos. 
 
 Durante la segunda semana
 [enter image description here]
