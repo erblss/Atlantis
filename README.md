@@ -1,5 +1,3 @@
-
-
 # Atlantis
 realización de un nuevo proyecto en scratch que estará inspirado en flappy bird
 
@@ -37,15 +35,19 @@ El nombre del equipo es "ATLANTIS"
 ## Diario del desarrollo
 
 Durante la primera semana realizamos el personaje principal, en este caso el pájaro, haciendo el fondo con los tubos verdes y además el movimiento del pájaro hacia arriba y hacia abajo para que avance evitando los tubos.
+[![Captura-de-pantalla-2025-03-18-141431.png](https://i.postimg.cc/4NM3kJBQ/Captura-de-pantalla-2025-03-18-141431.png)](https://postimg.cc/7f34Syv5)
+[![Captura-de-pantalla-2025-03-18-141443.png](https://i.postimg.cc/MG0ZQ1x9/Captura-de-pantalla-2025-03-18-141443.png)](https://postimg.cc/McT8kMnB)
+[![Captura-de-pantalla-2025-03-18-141657.png](https://i.postimg.cc/ncsH1ypj/Captura-de-pantalla-2025-03-18-141657.png)](https://postimg.cc/SJhFStXk)
 
-[enter image description here]
-
-La segunda semana continuamos organizando un poco el Readme para poder continuar desarrollando el proceso del juego de forma más adecuada; mientras continuamos con el desarrollo de la gravedad del pájaro y con el movimiento de las tuberias y ponemos el fondo de has perdido, que sucederá si tocas uno de los obstáculos. 
+La segunda semana continuamos organizando un poco el Readme para poder continuar desarrollando el proceso del juego de forma más adecuada; mientras continuamos con el desarrollo de la gravedad del pájaro y con el movimiento de las tuberías y ponemos el fondo de has perdido, que sucederá si tocas uno de los obstáculos. 
 
 Durante la segunda semana
-[enter image description here]
+[![Captura-de-pantalla-2025-03-18-141215.png](https://i.postimg.cc/BZRvRShc/Captura-de-pantalla-2025-03-18-141215.png)](https://postimg.cc/grqdZWbn)
 
-En la tercera semana también incluimos
+[![Captura-de-pantalla-2025-03-18-141327.png](https://i.postimg.cc/13r5gpyJ/Captura-de-pantalla-2025-03-18-141327.png)](https://postimg.cc/ts7HwnZx)
+[![Captura-de-pantalla-2025-03-18-141347.png](https://i.postimg.cc/506xkTLR/Captura-de-pantalla-2025-03-18-141347.png)](https://postimg.cc/XG6Sr22f)
+
+En la tercera semana también incluimos un fondo de presentación de nuestro proyecto y un paisaje que se va viendo al avanzar el juego y aumentando la velocidad poco a poco para añadir dificultad. 
 
 [enter image description here]
 
