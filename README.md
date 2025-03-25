@@ -1,9 +1,9 @@
 # Atlantis
-realización de un nuevo proyecto en scratch que estará inspirado en flappy bird
+Realización de un nuevo proyecto en scratch que estará inspirado en flappy bird.
 
 ## Descripción del juego
 
--   En este repositorio se va a ir guardando las distintas versiones de un juego hecho en scratch cuya mecánica principal se basa en un pájaro que va avanzando en un fondo en el que tiene que ir moviéndose hacia arriba o hacia abajo con la tecla espaciadora del teclado, intentando superar los obstáculos que son un fondo de tubos verdes con distintas alturas hasta alcanzar el siguiente nivel.
+-   En este repositorio se va a ir guardando las distintas versiones de un juego hecho en scratch cuya mecánica principal se basa en un pájaro que va avanzando en un fondo en el que tiene que ir moviéndose hacia arriba o hacia abajo con la tecla espaciadora del teclado, intentando superar los obstáculos que son un fondo de tubos verdes con distintas alturas hasta alcanzar el siguiente nivel. Estos tubos van aumentando la velocidad para aumentar la dificultad.
 -   En este trabajo han participado:
     
     -   Juan Francisco Sánchez García
@@ -13,15 +13,16 @@ realización de un nuevo proyecto en scratch que estará inspirado en flappy bir
     
 
 ## Enlaces a los Materiales Usados
-Para su realización nos hemos guiado con los siguientes tutoriales:
+Para su realización nos hemos guiado con el siguiente tutorial:
 - [Video de flappy bird](https://www.youtube.com/watch?v=iDIgeGgQtEw)
 -   Además incluimos algunas capturas de como va avanzando el juego semana a semana.
 
 ## Instrucciones para jugar y enlace al juego
 
-En este juego es necesario utilizar la tecla espaciadora localizada en la parte baja del teclado; estas son las que te permitirán moverte por el fondo avanzando y así poder superar y pasar los obstáculos para poder seguir y evitar tocar cualquier tubo. El objetivo principal del juego es pasar al siguiente nivel una vez hayas pasado todos los tubos que nos encontramos a largo de los niveles con diferentes alturas. El enlace del juego para que cualquier persona que desee jugar pueda es el siguiente: [Enlace al juego](https://scratch.mit.edu/projects/1142492070)
+En este juego es necesario utilizar la tecla espaciadora localizada en la parte baja del teclado; estas son las que te permitirán moverte por el fondo avanzando y así poder superar y pasar los obstáculos para poder seguir y evitar tocar cualquier tubo. El objetivo principal del juego es pasar todos los tubos que nos encontramos a largo de la pantalla que irá aumentando la velocidad de aparición de estos obstáculos con diferentes alturas. El enlace del juego para que cualquier persona que desee jugar pueda es el siguiente: [Enlace al juego](https://scratch.mit.edu/projects/1142492070) 
 
-[Enlace a drive]
+Para acceder al enlace de la presentación de canva de nuestro proyecto [pincha aquí]
+
 ## Nombre del equipo
 
 El nombre del equipo es "ATLANTIS"
@@ -41,14 +42,10 @@ Durante la primera semana realizamos el personaje principal, en este caso el pá
 
 La segunda semana continuamos organizando un poco el Readme para poder continuar desarrollando el proceso del juego de forma más adecuada; mientras continuamos con el desarrollo de la gravedad del pájaro y con el movimiento de las tuberías y ponemos el fondo de has perdido, que sucederá si tocas uno de los obstáculos. 
 
-Durante la segunda semana
-[![Captura-de-pantalla-2025-03-18-141215.png](https://i.postimg.cc/BZRvRShc/Captura-de-pantalla-2025-03-18-141215.png)](https://postimg.cc/grqdZWbn)
+![Captura-de-pantalla-2025-03-18-141215.png](https://i.postimg.cc/BZRvRShc/Captura-de-pantalla-2025-03-18-141215.png)
 
-[![Captura-de-pantalla-2025-03-18-141327.png](https://i.postimg.cc/13r5gpyJ/Captura-de-pantalla-2025-03-18-141327.png)](https://postimg.cc/ts7HwnZx)
-[![Captura-de-pantalla-2025-03-18-141347.png](https://i.postimg.cc/506xkTLR/Captura-de-pantalla-2025-03-18-141347.png)](https://postimg.cc/XG6Sr22f)
+![Captura-de-pantalla-2025-03-18-141327.png](https://i.postimg.cc/13r5gpyJ/Captura-de-pantalla-2025-03-18-141327.png)
+![Captura-de-pantalla-2025-03-18-141347.png](https://i.postimg.cc/506xkTLR/Captura-de-pantalla-2025-03-18-141347.png)
 
 En la tercera semana también incluimos un fondo de presentación de nuestro proyecto y un paisaje que se va viendo al avanzar el juego y aumentando la velocidad poco a poco para añadir dificultad. 
-
-[enter image description here]
-
-Para acceder al enlace del trabajo de canva  [pincha aquí]
+Añadimos también los sonidos.
