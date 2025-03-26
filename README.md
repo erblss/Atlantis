@@ -49,3 +49,5 @@ La segunda semana continuamos organizando un poco el Readme para poder continuar
 
 En la tercera semana también incluimos un fondo de presentación de nuestro proyecto y un paisaje que se va viendo al avanzar el juego y aumentando la velocidad poco a poco para añadir dificultad. 
 Añadimos también los sonidos.
+
+![Captura-de-pantalla-2025-03-26-094924.png](https://i.postimg.cc/Gt2p8X6W/Captura-de-pantalla-2025-03-26-094924.png)
