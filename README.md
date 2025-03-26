@@ -19,7 +19,7 @@ Para su realización nos hemos guiado con el siguiente tutorial:
 
 ## Instrucciones para jugar y enlace al juego
 
-En este juego es necesario utilizar la tecla espaciadora localizada en la parte baja del teclado; estas son las que te permitirán moverte por el fondo avanzando y así poder superar y pasar los obstáculos para poder seguir y evitar tocar cualquier tubo. El objetivo principal del juego es pasar todos los tubos que nos encontramos a largo de la pantalla que irá aumentando la velocidad de aparición de estos obstáculos con diferentes alturas. El enlace del juego para que cualquier persona que desee jugar pueda es el siguiente: [Enlace al juego](https://scratch.mit.edu/projects/1142492070) 
+En este juego es necesario utilizar la tecla espaciadora localizada en la parte baja del teclado; estas son las que te permitirán moverte por el fondo avanzando y así poder superar y pasar los obstáculos para poder seguir y evitar tocar cualquier tubo. El objetivo principal del juego es pasar todos los tubos que nos encontramos a largo de la pantalla que irá aumentando la velocidad de aparición de estos obstáculos con diferentes alturas. El enlace del juego para que cualquier persona que desee jugar pueda es el siguiente: [Enlace al juego](https://scratch.mit.edu/projects/1142492070)
 
 Para acceder al enlace de la presentación de canva de nuestro proyecto [pincha aquí]
 
