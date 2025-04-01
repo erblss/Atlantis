@@ -11,7 +11,6 @@ Realización de un nuevo proyecto en scratch que estará inspirado en flappy bir
     -   Rosario Vivo Pérez
 -   El nombre otorgado es "BRAVE BIRD"
     
-
 ## Enlaces a los Materiales Usados
 Para su realización nos hemos guiado con el siguiente tutorial:
 - [Video de flappy bird](https://www.youtube.com/watch?v=iDIgeGgQtEw)
@@ -21,7 +20,7 @@ Para su realización nos hemos guiado con el siguiente tutorial:
 
 En este juego es necesario utilizar la tecla espaciadora localizada en la parte baja del teclado; estas son las que te permitirán moverte por el fondo avanzando y así poder superar y pasar los obstáculos para poder seguir y evitar tocar cualquier tubo. El objetivo principal del juego es pasar todos los tubos que nos encontramos a largo de la pantalla que irá aumentando la velocidad de aparición de estos obstáculos con diferentes alturas. El enlace del juego para que cualquier persona que desee jugar pueda es el siguiente: [Enlace al juego](https://scratch.mit.edu/projects/1142492070)
 
-Para acceder al enlace de la presentación de canva de nuestro proyecto [pincha aquí]
+Para acceder al enlace de la presentación de canva de nuestro proyecto [enlace a canva](https://www.canva.com/design/DAGjY95A63U/hb7sM0EOnkjldnFP1xWwzw/edit?utm_content=DAGjY95A63U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Nombre del equipo
 
@@ -36,9 +35,7 @@ El nombre del equipo es "ATLANTIS"
 ## Diario del desarrollo
 
 Durante la primera semana realizamos el personaje principal, en este caso el pájaro, haciendo el fondo con los tubos verdes y además el movimiento del pájaro hacia arriba y hacia abajo para que avance evitando los tubos.
-[![Captura-de-pantalla-2025-03-18-141431.png](https://i.postimg.cc/4NM3kJBQ/Captura-de-pantalla-2025-03-18-141431.png)](https://postimg.cc/7f34Syv5)
-[![Captura-de-pantalla-2025-03-18-141443.png](https://i.postimg.cc/MG0ZQ1x9/Captura-de-pantalla-2025-03-18-141443.png)](https://postimg.cc/McT8kMnB)
-[![Captura-de-pantalla-2025-03-18-141657.png](https://i.postimg.cc/ncsH1ypj/Captura-de-pantalla-2025-03-18-141657.png)](https://postimg.cc/SJhFStXk)
+![Captura-de-pantalla-2025-03-18-141431.png](https://i.postimg.cc/4NM3kJBQ/Captura-de-pantalla-2025-03-18-141431.png)![Captura-de-pantalla-2025-03-18-141443.png](https://i.postimg.cc/MG0ZQ1x9/Captura-de-pantalla-2025-03-18-141443.png)![Captura-de-pantalla-2025-03-18-141657.png](https://i.postimg.cc/ncsH1ypj/Captura-de-pantalla-2025-03-18-141657.png)
 
 La segunda semana continuamos organizando un poco el Readme para poder continuar desarrollando el proceso del juego de forma más adecuada; mientras continuamos con el desarrollo de la gravedad del pájaro y con el movimiento de las tuberías y ponemos el fondo de has perdido, que sucederá si tocas uno de los obstáculos. 
 
