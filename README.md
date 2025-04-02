@@ -15,6 +15,7 @@ Realización de un nuevo proyecto en scratch que estará inspirado en flappy bir
 Para su realización nos hemos guiado con el siguiente tutorial:
 - [Video de flappy bird](https://www.youtube.com/watch?v=iDIgeGgQtEw)
 -   Además incluimos algunas capturas de como va avanzando el juego semana a semana.
+- [Enlace a linktr](https://linktr.ee/hierbabuenaatlantis)
 
 ## Instrucciones para jugar y enlace al juego
 
